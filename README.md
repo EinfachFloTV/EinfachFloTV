@@ -9,6 +9,8 @@
 
 
 <p align="center">
+ <img href="discord.com/users/871714118946660352">
+
     <a href="https://dsc.gg/flounity"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="einfachflo_tv" width="85" height="20"/></a>
     <a href="https://github.com/einfachflotv?tab=followers"><img src="https://img.shields.io/github/followers/einfachflotv?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
