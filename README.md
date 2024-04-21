@@ -7,14 +7,14 @@
 
 <br>
 
-
 <p align="center">
-    [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I8X62ML)
     <a href="https://discord.gg/hbDuAc2AU9"><img src="https://img.shields.io/badge/Discord-7488cd?style=for-the-badge&logo=discord&logoColor=white" alt="einfachflo_tv" width="85" height="20"/></a>
     <a href="https://github.com/einfachflotv?tab=followers"><img src="https://img.shields.io/github/followers/einfachflotv?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 
+<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I8X62ML)
 <br>
 
 ## 🔎 Über Mich
