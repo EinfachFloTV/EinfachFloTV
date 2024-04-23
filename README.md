@@ -16,9 +16,15 @@
   <a href="https://ko-fi.com/I3I8X62ML"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
       </p>
 <br>
-## 🤔 My Stats
+      
+<br/><br/><br/>
 
-<img src = "https://github-readme-stats.vercel.app/api?username=EinfachFloTV&show_icons=true#gh-dark-mode-only"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EinfachFloTV&show_icons=true&locale=en" alt="EinfachFloTV" /></p>
+<br/><br/><br/>
+
+## 🤔 My Streak
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EinfachFloTV" alt="EinfachFloTV" /></p>
+
 
 ## 🔎 Über Mich
 
