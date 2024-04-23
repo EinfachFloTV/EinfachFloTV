@@ -25,14 +25,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EinfachFloTV" alt="EinfachFloTV" /></p>
 <br/>
 
-## 🔎 Über Mich
+## 🔎 About Me
 
 - Ich Programmiere in Moment in **JDA (Java Discord API)**
 
 <br/>
+
+## 📝 Contact Me
+- [Discord Support](https://discord.com/users/871714118946660352)<br/>
+- [Mail Me](mailto:)<br/>
+
 
 ## Schau gerne auf meinen Kanälen vorbei:
 <p align="left">
 
 <a href = "https://www.youtube.com/@EinfachFlo_TV"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://twitch.tv/einfachflo_tv"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
+<br/>
