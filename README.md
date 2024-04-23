@@ -2,8 +2,8 @@
 <a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hallo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Ich bin Flo!</h1>
-<h3 align="center">Ich bin ein Developer aus der Schweiz!</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I`am Flo!</h1>
+<h3 align="center">I am a developer from Switzerland!</h3>
 
 <br>
 
@@ -27,7 +27,7 @@
 
 ## 🔎 About Me
 
-- Ich Programmiere in Moment in **JDA (Java Discord API)**
+- I am currently coding in **JDA (Java Discord API)**
 
 <br/>
 
@@ -36,7 +36,7 @@
 - [Mail Me](mailto:)<br/><br/>
 
 
-## Schau gerne auf meinen Kanälen vorbei:
+## Feel free to visit my channels:
 <p align="left">
 
 <a href = "https://www.youtube.com/@EinfachFlo_TV"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
