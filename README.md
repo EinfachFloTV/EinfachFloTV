@@ -33,7 +33,7 @@
 
 ## 📝 Contact Me
 - [Discord Support](https://discord.com/users/871714118946660352)<br/>
-- [Mail Me](mailto:)<br/>
+- [Mail Me](mailto:)<br/><br/>
 
 
 ## Schau gerne auf meinen Kanälen vorbei:
