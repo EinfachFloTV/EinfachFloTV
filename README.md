@@ -16,7 +16,9 @@
   <a href="https://ko-fi.com/I3I8X62ML"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/>
       </p>
 <br>
+## 🤔 My Stats
 
+<img src = "https://github-readme-stats.vercel.app/api?username=EinfachFloTV&show_icons=true#gh-dark-mode-only"/>
 
 ## 🔎 Über Mich
 
