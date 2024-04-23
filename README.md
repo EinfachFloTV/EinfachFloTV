@@ -36,7 +36,7 @@
 - [Mail Me](mailto:)<br/><br/>
 
 
-## Feel free to visit my channels:
+## Visit my channels:
 <p align="left">
 
 <a href = "https://www.youtube.com/@EinfachFlo_TV"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
