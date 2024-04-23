@@ -35,10 +35,3 @@
 - [Discord Support](https://discord.com/users/871714118946660352)<br/>
 - [Mail Me](mailto:)<br/><br/>
 
-
-## Visit my channels:
-<p align="left">
-
-<a href = "https://www.youtube.com/@EinfachFlo_TV"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://twitch.tv/einfachflo_tv"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
-<br/>
