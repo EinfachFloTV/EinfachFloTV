@@ -23,7 +23,7 @@
 
 ## 🔥 My Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EinfachFloTV" alt="EinfachFloTV" /></p>
-
+<br/>
 
 ## 🔎 Über Mich
 
