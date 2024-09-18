@@ -26,8 +26,8 @@
 <br/>
 
 ## 🔎 About Me
-
-- I am currently coding in **JDA (Java Discord API)**
+- I am Streamer/Gamer/
+- I am currently coding in **JAVA**
 
 <br/>
 
