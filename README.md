@@ -26,7 +26,7 @@
 <br/>
 
 ## 🔎 About Me
-- I am Streamer/Gamer/
+- I am Streamer/Gamer
 - I am currently coding in **JAVA**
 
 <br/>
