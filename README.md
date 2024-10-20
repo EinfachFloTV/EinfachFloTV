@@ -27,7 +27,7 @@
 
 ## 🔎 About Me
 - I am Streamer/Gamer
-- I am currently coding in **JAVA**
+- I am currently coding on **Alaxus**
 
 <br/>
 
