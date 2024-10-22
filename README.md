@@ -27,7 +27,7 @@
 
 ## 🔎 About Me
 - I am Streamer/Gamer
-- I am currently coding on **Alaxus**
+- I am currently working on **Alaxus** and **DemonSucht**
 
 <br/>
 
